@@ -1,4 +1,5 @@
-### Hi there 👋
+### Oi, meu nome é Breno Farias. 
+Atualmente estudande de Análise e Desenvolvimento e sistemas.
 
 <!--
 **Farias/Farias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
