@@ -1,4 +1,4 @@
-### Oi, meu nome é Breno Farias. 
+### Oi, meu nome é Bianca Farias. 
 Atualmente estudande de Análise e Desenvolvimento e sistemas.
 
 <!--
